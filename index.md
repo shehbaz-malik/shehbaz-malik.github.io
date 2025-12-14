@@ -62,63 +62,63 @@ Gateway APIs, and WordPress sites.
 ## Projects
 
 - needl.co
-  - PREVIEW: [Live site](https://app.needl.co)
+  - PREVIEW: <a href="https://app.needl.co" target="_blank" rel="noopener noreferrer">Live site</a>
   - STACKS: PHP, Mouf, GraphQL, RabbitMQ, Docker, AngularJS, Unit Tests and API’s.
   - ***
 - newrich.com
-  - PREVIEW: [Live site](https://newrich.com)
+  - PREVIEW: <a href="https://newrich.com" target="_blank" rel="noopener noreferrer">Live site</a>
   - STACKS: PHP, Laravel, ReactJS, API’s.
   - ***
 - newrichapps.com
-  - PREVIEW: [Live site](https://newrichapps.com)
+  - PREVIEW: <a href="https://newrichapps.com" target="_blank" rel="noopener noreferrer">Live site</a>
   - STACKS: WordPress, Custom Theme & Plugins, Custom Checkout with upsells flow and User Dashboard.
   - ***
 - zebricks.com
-  - PREVIEW: [Live site](https://www.zebricks.com)
+  - PREVIEW: <a href="https://www.zebricks.com" target="_blank" rel="noopener noreferrer">Live site</a>
   - STACKS: HubSpot, Custom Modules & Theme.
   - ***
 - childrensbookmaker.net
-  - PREVIEW: [Live site](https://app.childrensbookmaker.net)
+  - PREVIEW: <a href="https://app.childrensbookmaker.net" target="_blank" rel="noopener noreferrer">Live site</a>
   - STACKS: Laravel, OpenAI, AI Story Generation, Illustration generation using OpenAI and User Dashboard.
   - ***
 - apba.org.pk
-  - PREVIEW: [Live site](https://apba.org.pk)
+  - PREVIEW: <a href="https://apba.org.pk" target="_blank" rel="noopener noreferrer">Live site</a>
   - STACKS: Laravel, Organization CRM, Business Management, Custom Invoicing and Messer Management.
   - ***
 - gemmo.ai
-  - PREVIEW: [Live site](https://gemmo.ai)
+  - PREVIEW: <a href="https://gemmo.ai" target="_blank" rel="noopener noreferrer">Live site</a>
   - STACKS: WordPress, Custom Theme & Plugins.
   - ***
 - risso.ai
-  - PREVIEW: [Live site](https://risso.ai)
+  - PREVIEW: <a href="https://risso.ai" target="_blank" rel="noopener noreferrer">Live site</a>
   - STACKS: WordPress, Custom Theme & Plugins.
   - ***
 - vintagerep.com
-  - PREVIEW: [Live site](https://vintagerep.com)
+  - PREVIEW: <a href="https://vintagerep.com" target="_blank" rel="noopener noreferrer">Live site</a>
   - STACKS: WordPress, Custom Theme & Plugins.
   - ***
 - mrjunkbgoneseattle.com
-  - PREVIEW: [Live site](https://mrjunkbgoneseattle.com)
+  - PREVIEW: <a href="https://mrjunkbgoneseattle.com" target="_blank" rel="noopener noreferrer">Live site</a>
   - STACKS: WordPress, Custom Theme & Plugins and GHL Crm Integration.
   - ***
 - hexafit.nl
-  - PREVIEW: [Live site](https://hexafit.nl)
+  - PREVIEW: <a href="https://hexafit.nl" target="_blank" rel="noopener noreferrer">Live site</a>
   - STACKS: WordPress, Custom Theme & Plugins.
   - ***
 - interrexglobal.com
-  - PREVIEW: [Live site](https://interrexglobal.com)
+  - PREVIEW: <a href="https://interrexglobal.com" target="_blank" rel="noopener noreferrer">Live site</a>
   - STACKS: WordPress, Custom Theme & Plugins.
   - ***
 - cleads.ai
-  - PREVIEW: [Live site](https://cleads.ai)
+  - PREVIEW: <a href="https://cleads.ai" target="_blank" rel="noopener noreferrer" data-proofer-ignore>Live site</a>
   - STACKS: WordPress, Custom Theme & Plugins.
   - ***
 - 99junkremoval.com
-  - PREVIEW: [Live site](https://99junkremoval.com)
+  - PREVIEW: <a href="https://99junkremoval.com" target="_blank" rel="noopener noreferrer">Live site</a>
   - STACKS: WordPress, Custom Theme & Plugins.
   - ***
 - thomas-dentistry.com
-  - PREVIEW: [Live site](https://thomas-dentistry.com)
+  - PREVIEW: <a href="https://thomas-dentistry.com" target="_blank" rel="noopener noreferrer">Live site</a>
   - STACKS: WordPress, Custom Theme & Plugins.
   - ***
 
