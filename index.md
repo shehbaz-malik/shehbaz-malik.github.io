@@ -2,18 +2,45 @@
 layout: default
 ---
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Shehbaz Malik",
+  "url": "https://shehbaz-malik.github.io/",
+  "jobTitle": "Full-Stack Developer",
+  "knowsAbout": ["PHP", "Laravel", "React.js", "Vue.js", "NodeJS", "WordPress Custom Development", "GraphQL", "AI Integration", "OpenAI API"],
+  "sameAs": [
+    "https://www.linkedin.com/in/pro-remote-web-developer", 
+    "https://github.com/shehbaz-malik"
+  ],
+  "description": "Versatile Full-Stack developer with expertise in PHP frameworks, React, and AI-driven solutions."
+}
+</script>
+
 ## Overview
 
-Versatile Full-Stack developer with expertise in PHP frameworks, WordPress (custom themes & plugins), React.js, Vue.js, and RESTful/GraphQL API integration. Proven experience in building scalable B2B and eCommerce solutions for a variety of businesses. Focused on clean code, performance, and seamless user experiences.
+Versatile **Full-Stack Developer** with expertise in **PHP frameworks (Laravel)**, **WordPress (Custom Themes & Plugins)**, **React.js**, **Vue.js**, **NodeJS**, and RESTful/GraphQL API integration. Proven experience in building scalable B2B and eCommerce solutions for a variety of businesses. Focused on clean code, performance, and seamless user experiences.
 
 &nbsp;
 
-## Work Experience
+## Technical Expertise
+
+* **Languages & Frameworks:** PHP (Laravel, Mouf), JavaScript (React.js, Vue.js, AngularJS), Node.js.
+* **Specialized Integrations:** RESTful & GraphQL APIs, OpenAI (GPT-4), Stripe/NMI Payment Gateways, WebSockets.
+* **Infrastructure:** Docker, RabbitMQ, Unit Testing, CI/CD.
+
+&nbsp;
+
+## Professional Work Experience
 
 > ### 1. Upwork
 > Full-Stack Developer | Nov 2025 - Present
 >
 > `Freelancer` - Full-time
+> ##### Responsibilities
+> * Providing high-end technical consultancy and development for global clients focusing on modern web stacks.
+>
 > * * *
 > ### 2. NewRich Network (Canada)
 > Full-Stack Developer | Mar 2022 - Aug 2025
@@ -59,7 +86,7 @@ Gateway APIs, and WordPress sites.
 
 &nbsp;
 
-## Projects
+## Featured Projects
 
 - needl.co
   - PREVIEW: <a href="https://app.needl.co" target="_blank" rel="noopener noreferrer">Live site</a>
@@ -79,7 +106,7 @@ Gateway APIs, and WordPress sites.
   - ***
 - childrensbookmaker.net
   - PREVIEW: <a href="https://app.childrensbookmaker.net" target="_blank" rel="noopener noreferrer">Live site</a>
-  - STACKS: Laravel, OpenAI, AI Story Generation, Illustration generation using OpenAI and User Dashboard.
+  - STACKS: Laravel, OpenAI, AI Story Generation, Illustration generation using **OpenAI API** and User Dashboard.
   - ***
 - apba.org.pk
   - PREVIEW: <a href="https://apba.org.pk" target="_blank" rel="noopener noreferrer">Live site</a>
@@ -122,67 +149,10 @@ Gateway APIs, and WordPress sites.
   - STACKS: WordPress, Custom Theme & Plugins.
   - ***
 
-<!-- &nbsp;
-
-## Web Scrapping With PlayWright
-Example for clean code
-
-```js
-// Bot function to scrap the actual page content
-async function scrapeCompanies(page, url) {
-  let allCompanies = [];
-  let pageNum = 1;
-
-  console.log(`🔗 Navigating to: ${url}`);
-  await page.goto(url, {waitUntil: "domcontentloaded", timeout: 0});
-  
-  try {
-    while (true) {
-      console.log(`📄 Scraping page ${pageNum}...`);
-      
-      const companiesOnPage = await scraper(page);
-      console.log(`✅ Found ${companiesOnPage.length} companies on page ${pageNum}`);
-      allCompanies.push(...companiesOnPage);
-      
-      await humanLikeMouse(page);
-
-      // --- Pagination check ---
-      const prevUrl = page.url();
-
-      const nextBtn = await page.$("#pagination-next");
-      if (!nextBtn) {
-        console.log("🚦 No more pages. Stopping...");
-        break;
-      }
-
-      await humanLikeScroll(page);
-
-      console.log("➡️ waiting before click...");
-      await delay(2000, 4000);
-      console.log("➡️ Clicking next button...");
-
-      await page.click("#pagination-next", {timeout: 0});
-
-      await page.waitForURL(newUrl => newUrl !== prevUrl, {
-        waitUntil: "domcontentloaded",
-        timeout: 0
-      });
-
-      await maybeHumanTypeQuoiQui(page);
-
-      pageNum++;
-    }
-
-    return allCompanies;
-  } catch (err) {
-    console.error("❌ Error scraping companies:", err.message);
-    return allCompanies;
-  }
-}
-``` -->
 &nbsp;
 
-## Scrapping Bots
+## Automation & Bot Development
+* I build custom scraping solutions and automation bots to streamline data collection and business processes.
 
 ![Scrape Result](./assets/images/bot_scrapper.png)
 
