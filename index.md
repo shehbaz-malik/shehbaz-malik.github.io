@@ -38,7 +38,7 @@ Versatile **Full-Stack Developer** with expertise in **PHP frameworks (Laravel)*
 > Full-Stack Developer | Nov 2025 - Present
 >
 > `Freelancer` - Full-time
-> ##### Responsibilities
+> #### Responsibilities
 > * Providing high-end technical consultancy and development for global clients focusing on modern web stacks.
 >
 > * * *
@@ -46,12 +46,12 @@ Versatile **Full-Stack Developer** with expertise in **PHP frameworks (Laravel)*
 > Full-Stack Developer | Mar 2022 - Aug 2025
 >
 > `Remote` - Full-time
-> ##### Responsibilities
+> #### Responsibilities
 > * Maintained multiple projects, including CRM systems, Payment Gateway APIs,
 WordPress sites (including e-commerce and membership platforms).
 > * Managed various sales funnels and upsells to enhance business revenue.
 >
-> ##### Stacks
+> #### Stacks
 > * PHP, Laravel, WordPress (custom themes, plugins), VueJS, ReactJS, API’s
 including Chatgpt, Stripe, NMI, Konnektive CRM, Drip, ActiveCampaign, Zapier
 Automations, and Custom Checkout.
@@ -61,14 +61,14 @@ Automations, and Custom Checkout.
 > Full-Stack Developer | Nov 2020 - May 2021
 >
 > `Remote` - Full-time
-> ##### Responsibilities
+> #### Responsibilities
 > * Responsible for maintaining the B2B platform, which supports nearly 100,000
 monthly active users.
 > * Implemented a meeting scheduling feature using the Zoom API and WebSockets
 for real-time communication between customers and businesses.
 > * Integrated OAuth synchronization with Google and Outlook Calendar APIs.
 >
-> ##### Stacks
+> #### Stacks
 > * PHP, Mouf, GraphQL, RabbitMQ, Docker, AngularJS, Unit Tests, API’s.
 >
 > * * *
@@ -76,11 +76,11 @@ for real-time communication between customers and businesses.
 > Full-Stack Developer | Nov 2017 - Oct 2020
 >
 > `Onsite` - Full-time
-> ##### Responsibilities
+> #### Responsibilities
 > * Maintaining multiple projects, including an organization's ERP, CRM, Payment
 Gateway APIs, and WordPress sites.
 >
-> ##### Stacks
+> #### Stacks
 > * PHP, Laravel, WordPress
 >
 

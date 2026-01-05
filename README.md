@@ -26,6 +26,11 @@ I build scalable B2B platforms, e-commerce engines, and AI-driven applications. 
 
 ---
 
+### 📊 My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shehbaz-malik&show_icons=true&theme=radical" alt="Shehbaz Malik Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shehbaz-malik&layout=compact&theme=radical" alt="Top Langs" />
 </p>
