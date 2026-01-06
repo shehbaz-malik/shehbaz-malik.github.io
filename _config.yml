@@ -7,6 +7,10 @@ resume_link: https://drive.google.com/drive/folders/1Y2sesM0rnAVnB4pXGEh53Dg8yCa
 linkedin_link: https://www.linkedin.com/in/shehbaz--malik
 github_link: https://github.com/shehbaz-malik
 google_analytics: G-24L1K58KVD
-google_analytics_script: https://www.googletagmanager.com/gtag/js?id=G-24L1K58KVD
 htmlproofer:
   check_external_hash: false
+  ignore_urls:
+    - /https://www.googletagmanager.com/
+    - /https://www.google-analytics.com/
+    - //cdn.iubenda.com
+    - /https://cs.iubenda.com/
