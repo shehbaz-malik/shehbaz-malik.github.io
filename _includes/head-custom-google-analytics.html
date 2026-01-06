@@ -1,19 +1,18 @@
 {% if site.google_analytics %}
 
-<script type="text/javascript">
-var _iub = _iub || [];
-_iub.csConfiguration = {"siteId":4374920,"cookiePolicyId":14433792,"lang":"en","storage":{"useSiteId":true}};
+<script type="text/javascript" src="https://www.termsfeed.com/public/cookie-consent/4.2.0/cookie-consent.js" charset="UTF-8" data-proofer-ignore></script>
+<script type="text/javascript" charset="UTF-8">
+document.addEventListener('DOMContentLoaded', function () {
+cookieconsent.run({"notice_banner_type":"headline","consent_type":"express","palette":"dark","language":"en","page_load_consent_levels":["strictly-necessary"],"notice_banner_reject_button_hide":false,"preferences_center_close_button_hide":false,"page_refresh_confirmation_buttons":false,"website_name":"shehbaz-malik.github.io"});
+});
 </script>
-<script type="text/javascript" src="https://cs.iubenda.com/autoblocking/4374920.js" data-proofer-ignore></script>
-<script type="text/javascript" src="//cdn.iubenda.com/cs/gpp/stub.js" data-proofer-ignore></script>
-<script type="text/javascript" src="//cdn.iubenda.com/cs/iubenda_cs.js" charset="UTF-8" async data-proofer-ignore></script>
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}" data-proofer-ignore></script>
-<script>
+<script type="text/plain" data-cookie-consent="tracking" async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}" data-proofer-ignore></script>
+<script type="text/plain" data-cookie-consent="tracking">
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
   gtag('config', '{{ site.google_analytics }}');
 </script>
+
 {% endif %}
