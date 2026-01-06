@@ -7,11 +7,11 @@ layout: default
   "@context": "https://schema.org",
   "@type": "Person",
   "name": "Shehbaz Malik",
-  "url": "https://shehbaz-malik.github.io/",
+  "url": "https://shehbaz-malik.github.io",
   "jobTitle": "Full-Stack Developer",
   "knowsAbout": ["PHP", "Laravel", "React.js", "Vue.js", "NodeJS", "WordPress Custom Development", "GraphQL", "AI Integration", "OpenAI API"],
   "sameAs": [
-    "https://www.linkedin.com/in/pro-remote-web-developer", 
+    "https://www.linkedin.com/in/shehbaz--malik", 
     "https://github.com/shehbaz-malik"
   ],
   "description": "Versatile Full-Stack developer with expertise in PHP frameworks, React, and AI-driven solutions."
@@ -148,6 +148,16 @@ Gateway APIs, and WordPress sites.
   - PREVIEW: <a href="https://thomas-dentistry.com" target="_blank" rel="noopener noreferrer">Live site</a>
   - STACKS: WordPress, Custom Theme & Plugins.
   - ***
+
+&nbsp;
+
+## Stats
+* Here are my current GitHub stats:
+
+![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=shehbaz-malik&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shehbaz-malik&layout=compact&theme=radical)
+
 
 &nbsp;
 
